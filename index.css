@@ -1,0 +1,77 @@
+body {
+  background-color: silver;
+  font-family: "Roboto Slab", "Raleway";
+}
+
+.four-image-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 140px;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 60px;
+  color: blue;
+}
+
+.first-content {
+  margin-bottom: 100px;
+}
+
+.second-content {
+  margin-bottom: 100px;
+}
+
+.link-house {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.link-car {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.link-cat {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.link-guitar {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.two-column-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.image-wrap-house {
+  margin-left: 90px;
+  height: 213px;
+  width: 58%;
+}
+
+.back-button {
+  text-align: left;
+}
+
+.image-wrap-car {
+  margin-left: 90px;
+  height: 269;
+  width: 58%;
+}
+
+.image-wrap-cat {
+  margin-left: 90px;
+  height: 269;
+  width: 58%;
+}
+
+.image-wrap-guitar {
+  margin-left: 90px;
+  height: 269;
+  width: 58%;
+}
